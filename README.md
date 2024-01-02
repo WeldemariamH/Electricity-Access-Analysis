@@ -15,10 +15,10 @@ The datasets underwent thorough cleaning and preprocessing in MySQL. Steps inclu
 Several tables were created from the cleaned datasets, including those focusing on sources of electricity, and GDP growth. Data manipulations ensured relevance for further analysis.
 ## Power BI Visualizations
 Power BI visualizations were crafted to present insights effectively:
-Top 5 Nations Analysis
+### Top 5 Nations Analysis
 - Identification of the top 5 nations with more than 5 million populations showing the highest progress in increasing population percentage with electricity access from  2000 to 2020.
 - Line charts illustrating sources of electricity (low-carbon, renewable, fossil fuel) and GDP growth for these nations from 2000 to 2020.
-Global Change Analysis
+### Global Change Analysis
 - Visualizations depicting global changes in the percentage of the population with electricity access across the two decades.
 - Analysis of the top 3 nations in low-carbon and renewable electricity from 2000 to 2020.
 ## GitHub Repository Structure
