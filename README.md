@@ -29,9 +29,9 @@ Power BI visualizations were crafted to present insights effectively:
 - `Visualizations/`: Stores screenshots or exported visualizations.
 ## How to Use
 To reproduce the analysis, follow these steps:
-1.Execute the MySQL scripts in MySQL Script/ for data cleaning.
-2.Import the cleaned datasets into Power BI.
-3.Open the Power BI project in Powerbi Dashboard/ to explore visualizations.
+1. Execute the MySQL scripts in MySQL Script/ for data cleaning.
+2. Import the cleaned datasets into Power BI.
+3. Open the Power BI project in Powerbi Dashboard/ to explore visualizations.
 ## Acknowledgements
 - Thanks to the World Bank and Kaggle for providing the datasets.
 - Power BI for visualization capabilities.
