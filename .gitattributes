@@ -1,2 +1,2 @@
-```sql
- *.sql linguist-language=sql
+```
+ *.sql linguist-language=sql```
