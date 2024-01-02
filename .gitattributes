@@ -1,2 +1,3 @@
 *.sql linguist-detectable=true
 *.html linguist-detectable=false
+*.pbix linguist-language=PowerBI
